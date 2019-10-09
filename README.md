@@ -1,6 +1,9 @@
 # Real-Fake-News-Classifier
 Semester Project for CPTS 437 (Machine Learning)
 
+## Link to lates version
+https://colab.research.google.com/drive/1FkxtTqvz3NmTYaebUoaSTGR1DSdMX7gW
+
 ## Problem
 - Everyday we are faced with the difficult issue of separating real and fake news
 - Sometimes figuring out is difficult and honestly really annoying 
